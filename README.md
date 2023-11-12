@@ -1,2 +1,4 @@
-# login-system
+# Login-system
 一个以txt文件作为数据库的php登录系统。
+配有密码加密和注册限制，欢迎各位体验和提供意见，感谢～
+QQ学习交流群
